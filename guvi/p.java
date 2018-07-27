@@ -18,7 +18,7 @@ class Ideone
 	 }
 	 else if(n<0)
 	 {
-	 	System.out.println("negitive");
+	 	System.out.println("Negitive");
 	 }
 	 else
 	 {
